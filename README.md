@@ -27,6 +27,7 @@ Facultad: ESFOT
 
 6. Himachi
 ![](https://raw.githubusercontent.com/SANMH/Prueba2B_Servicios/master/assets/6.png)
+
 ### Resultado
 7. Acceso por medio de himachi desde un cliente externo
 ![](https://raw.githubusercontent.com/SANMH/Prueba2B_Servicios/master/assets/7.png)
