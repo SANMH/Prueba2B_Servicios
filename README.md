@@ -25,9 +25,7 @@ Facultad: ESFOT
 5. Configuramos un aplicacion web con PHP para MariaDB
 ![](https://raw.githubusercontent.com/SANMH/Prueba2B_Servicios/master/assets/5.png)
 
-
-6. Himachi
-![](https://raw.githubusercontent.com/SANMH/Prueba2B_Servicios/master/assets/6.png)
+6. Himachi ![](https://raw.githubusercontent.com/SANMH/Prueba2B_Servicios/master/assets/6.png)
 
 ### Resultado
 7. Acceso por medio de himachi desde un cliente externo
